@@ -7,7 +7,7 @@ Chosen no. should have to be an odd no,
 If you choose any odd no. it will create the X shape of all the numbers.
 
 
-i'll be probably look like this:-
+It will be probably look like this:-
 
 
 
